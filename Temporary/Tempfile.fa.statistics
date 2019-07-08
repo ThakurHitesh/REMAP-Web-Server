@@ -1,0 +1,37 @@
+Specifications
+==============
+
+Sequence source file: "Tempfile.fa"
+
+Definement of microsatellites (unit size / minimum number of repeats):
+(1/10) (2/6) (3/5) (4/5) (5/5) (6/5) 
+
+Maximal number of bases interrupting 2 SSRs in a compound microsatellite:  100
+
+
+
+RESULTS OF MICROSATELLITE SEARCH
+================================
+
+Total number of sequences examined:              1
+Total size of examined sequences (bp):           17
+Total number of identified SSRs:                 
+Number of SSR containing sequences:              0
+Number of sequences containing more than 1 SSR:  0
+Number of SSRs present in compound formation:    0
+
+
+Distribution to different repeat type classes
+---------------------------------------------
+
+Unit size	Number of SSRs
+
+Frequency of identified SSR motifs
+----------------------------------
+
+Repeats	total
+
+Frequency of classified repeat types (considering sequence complementary)
+-------------------------------------------------------------------------
+
+Repeats	total
