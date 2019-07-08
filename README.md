@@ -8,23 +8,23 @@ There are text file inside the folders that contain information regarding the pa
 
 Home Page:
 
-![](imageforReadme/img1.jpg)
+![](imagesforReadme/img1.jpg)
 
 Tool:
 
-![](imageforReadme/img2.jpg)
-![](imageforReadme/img3.jpg)
-![](imageforReadme/img4.jpg)
+![](imagesforReadme/img2.jpg)
+![](imagesforReadme/img3.jpg)
+![](imagesforReadme/img4.jpg)
 
 Result:
 
-![](imageforReadme/img5.png)
-![](imageforReadme/img6.png)
-![](imageforReadme/img7.jpg)
-![](imageforReadme/img8.png)
-![](imageforReadme/img9.png)
-![](imageforReadme/img10.png)
+![](imagesforReadme/img5.png)
+![](imagesforReadme/img6.png)
+![](imagesforReadme/img7.jpg)
+![](imagesforReadme/img8.png)
+![](imagesforReadme/img9.png)
+![](imagesforReadme/img10.png)
 
 Contact Page:
 
-![](imageforReadme/img11.jpg)
+![](imagesforReadme/img11.jpg)
